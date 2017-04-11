@@ -4,7 +4,8 @@
 public class Main {
     public static void main(String[] args)
     {
-
+        Books b = new Books("asdf", "adfad", 20, 5);
+        
     }
 
 }
